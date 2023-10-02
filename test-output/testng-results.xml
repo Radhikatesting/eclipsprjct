@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-28T14:17:29 IST" name="Default suite" finished-at="2023-09-28T14:18:33 IST" duration-ms="63816">
+    <groups>
+    </groups>
+    <test started-at="2023-09-28T14:17:29 IST" name="Default test" finished-at="2023-09-28T14:18:33 IST" duration-ms="63816">
+      <class name="testpkg.Testscribe">
+        <test-method is-config="true" signature="browser()[pri:0, instance:testpkg.Testscribe@618b19ad]" started-at="2023-09-28T14:17:29 IST" name="browser" finished-at="2023-09-28T14:17:40 IST" duration-ms="10268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method is-config="true" signature="urlload()[pri:0, instance:testpkg.Testscribe@618b19ad]" started-at="2023-09-28T14:17:40 IST" name="urlload" finished-at="2023-09-28T14:17:47 IST" duration-ms="7366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlload -->
+        <test-method signature="testrun()[pri:0, instance:testpkg.Testscribe@618b19ad]" started-at="2023-09-28T14:17:47 IST" name="testrun" finished-at="2023-09-28T14:18:33 IST" duration-ms="46079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testrun -->
+      </class> <!-- testpkg.Testscribe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
